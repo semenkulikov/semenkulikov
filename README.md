@@ -33,6 +33,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=semenkulikov&theme=dark&hide_border=true" height="165"/>
+</p>
 ---
 
 ## 📊 GitHub Stats
