@@ -1,9 +1,3 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm Semen 👋</h1>
-<h3 align="center">Backend Developer | Python • Django • FastAPI</h3>
-
----
-
 ## 🚀 About Me
 - 🐍 **Python Backend Developer** with 3+ years of experience  
 - ⚙️ Deep expertise in **Django**, **DRF**, and **FastAPI**  
@@ -44,6 +38,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semenkulikov&theme=dark&hide_border=true&layout=compact" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=semenkulikov&theme=dark&hide_border=true" height="165"/>
+</p>
 ---
 
 ## 🌐 Connect with Me
