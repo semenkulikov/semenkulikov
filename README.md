@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-two-ochre-83.vercel.app/?user=semenkulikov&theme=dark&hide_border=true?hide_current_streak=true&hide_total_contributions=true" height="165"/>
+  <img src="https://github-readme-streak-stats-sem.vercel.app/?user=semenkulikov&theme=dark&hide_border=true?hide_current_streak=true&hide_total_contributions=true" height="165"/>
 </p>
 
 ---
