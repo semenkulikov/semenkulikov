@@ -36,12 +36,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-two-ochre-83.vercel.app/api?username=semenkulikov&theme=dark&hide_border=true&show_icons=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats-two-ochre-83.vercel.app/api/top-langs/?username=semenkulikov&theme=dark&hide_border=true&layout=compact" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=semenkulikov&theme=dark&hide_border=true&show_icons=true&count_private=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=semenkulikov&theme=dark&hide_border=true&layout=compact" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-sem.vercel.app/?user=semenkulikov&theme=dark&hide_border=true?hide_current_streak=true&hide_total_contributions=true" height="165"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sem.vercel.app?user=semenkulikov&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 ---
