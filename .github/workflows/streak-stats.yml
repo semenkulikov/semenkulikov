@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v7
 
       - name: Generate streak stats
-        uses: semenkulikov/github-readme-streak-stats@v1
+        uses: semenkulikov/github-readme-streak-stats@main
         with:
           options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
           path: profile/streak.svg
