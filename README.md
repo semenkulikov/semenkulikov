@@ -77,17 +77,16 @@
 
 ---
 
+
 ## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://semyon-saifutdinov.online/">
     <img src="https://img.shields.io/badge/Portfolio-Website-161b22?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=0d1117" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+  </a>  
   <a href="mailto:saifutdinov.semen@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+  </a>  
   <a href="https://t.me/ss_user">
     <img src="https://img.shields.io/badge/Telegram-Message%20me-161b22?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=0d1117" alt="Telegram"/>
   </a>
