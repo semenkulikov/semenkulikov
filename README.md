@@ -57,13 +57,19 @@
   </a>
 </p>
 
+
+## 📈 Contribution Activity
+
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=semenkulikov&bg_color=0d1117&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=f0883e&area=true&area_color=161b22&border_color=30363d&radius=12&custom_title=Contribution%20Activity%20%28Last%2031%20Days%29"
-    width="95%"
-    alt="GitHub Contribution Activity"
-  />
+  <a href="https://github.com/semenkulikov">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=semenkulikov&theme=github-compact&days=31&height=250"
+      width="95%"
+      alt="GitHub Contribution Activity"
+    />
+  </a>
 </p>
+
 
 ## 🧠 Coding Practice
 
