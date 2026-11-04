@@ -4,6 +4,13 @@ name: Update LeetCode Metrics
 on:
   schedule:
     - cron: "0 4 * * *"
+
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/leetcode-metrics.yml"
+
   workflow_dispatch:
 
 permissions:
@@ -25,3 +32,4 @@ jobs:
           plugin_leetcode_user: SemSai
           plugin_leetcode_sections: solved, skills
           plugin_leetcode_limit_skills: 5
+          output_action: commit
