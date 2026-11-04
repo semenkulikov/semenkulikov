@@ -35,10 +35,4 @@ jobs:
           plugin_leetcode_limit_skills: 4
           plugin_leetcode_limit_recent: 2
 
-          extras_css: |
-            * {
-              font-family: Inter, "Segoe UI", system-ui, sans-serif !important;
-            }
-
-          config_padding: 6
-
+          output_action: commit
