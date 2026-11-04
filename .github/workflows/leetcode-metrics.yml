@@ -28,8 +28,17 @@ jobs:
           user: semenkulikov
           filename: leetcode-metrics.svg
           base: ""
+
           plugin_leetcode: yes
           plugin_leetcode_user: SemSai
-          plugin_leetcode_sections: solved, skills
-          plugin_leetcode_limit_skills: 5
-          output_action: commit
+          plugin_leetcode_sections: skills, recent
+          plugin_leetcode_limit_skills: 4
+          plugin_leetcode_limit_recent: 2
+
+          extras_css: |
+            * {
+              font-family: Inter, "Segoe UI", system-ui, sans-serif !important;
+            }
+
+          config_padding: 6
+
