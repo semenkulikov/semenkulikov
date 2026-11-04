@@ -57,7 +57,6 @@
   </a>
 </p>
 
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -68,15 +67,24 @@
   />
 </p>
 
+---
 
-## 🧠 Coding Practice
+## 🧠 LeetCode
 
 <p align="center">
-  <img src="./leetcode-metrics.svg" width="95%" alt="LeetCode Statistics" />
+  <img
+    src="https://leetcard.jacoblin.cool/SemSai?theme=dark&font=Inter&colors=0d1117,161b22,c9d1d9,8b949e,58a6ff,79c0ff,f0883e,30363d&radius=12&border=1&animation=true&hide=ranking"
+    width="49%"
+    alt="LeetCode Statistics"
+  />
+  <img
+    src="https://leetcard.jacoblin.cool/SemSai?ext=heatmap&theme=dark&font=Inter&colors=0d1117,161b22,c9d1d9,8b949e,58a6ff,79c0ff,f0883e,30363d&radius=12&border=1&animation=true"
+    width="49%"
+    alt="LeetCode Activity Heatmap"
+  />
 </p>
 
 ---
-
 
 ## 🌐 Connect with Me
 
