@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
   <!-- DevOps -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
@@ -73,22 +74,16 @@
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:saifutdinov.semen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/ss_user"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
-
 
 <p align="center">
   <a href="https://semyon-saifutdinov.online">
-    Portfolio
+    <img src="https://img.shields.io/badge/Portfolio-Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Portfolio"/>
   </a>
-  &nbsp; · &nbsp;
   <a href="mailto:saifutdinov.semen@gmail.com">
-    Email
+    <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
-  &nbsp; · &nbsp;
   <a href="https://t.me/ss_user">
-    Telegram
+    <img src="https://img.shields.io/badge/Telegram-Message%20me-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/>
   </a>
 </p>
+
