@@ -5,13 +5,13 @@
 ---
 
 ## 🚀 About Me
-- 🐍 **Python Backend Developer** with 3+ years of experience  
-- ⚙️ Deep expertise in **Django**, **DRF**, and **FastAPI**  
-- 🗄️ Solid background in **PostgreSQL**, **MySQL**, and SQL optimization  
-- 🐳 Proficient with **Docker**, **Nginx**, and CI/CD automation  
-- 🔌 Experienced in API development, integrations, and scalable architectures  
-- 🧩 Applying **SOLID**, **KISS**, and design patterns in production  
-- 📈 Passionate about high-load systems, data processing, and AI integration  
+
+- Python Backend Developer with 3+ years of hands-on experience.
+- Build REST APIs and backend services using Django, DRF, and FastAPI.
+- Work with PostgreSQL, MySQL, Redis, and Celery for data storage and background processing.
+- Develop third-party API integrations and asynchronous workflows.
+- Containerize and deploy applications using Docker, Nginx, and CI/CD.
+- Focus on maintainable architecture, performance, and practical AI integrations.
 
 ---
 
@@ -34,14 +34,40 @@
 
 ---
 
+
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=semenkulikov&theme=dark&hide_border=true&show_icons=true&count_private=true" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=semenkulikov&theme=dark&hide_border=true&layout=compact" height="165"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=semenkulikov&theme=dark&show_icons=true&include_all_commits=true&bg_color=135,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=12"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=semenkulikov&theme=dark&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&bg_color=135,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=12"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+  <a href="https://github.com/semenkulikov">
+    <img src="./profile/streak.svg" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=semenkulikov&bg_color=0d1117&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=f0883e&area=true&area_color=161b22&border_color=30363d&radius=12&custom_title=Contribution%20Activity%20%28Last%2031%20Days%29"
+    width="95%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
+## 🧠 Coding Practice
+
+<p align="center">
+  <img src="./leetcode-metrics.svg" width="95%" alt="LeetCode Statistics" />
 </p>
 
 ---
@@ -52,6 +78,17 @@
   <a href="https://t.me/ss_user"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
----
 
-<p align="center">💡 Always open to exciting projects and collaborations</p>
+<p align="center">
+  <a href="https://semyon-saifutdinov.online">
+    Portfolio
+  </a>
+  &nbsp; · &nbsp;
+  <a href="mailto:saifutdinov.semen@gmail.com">
+    Email
+  </a>
+  &nbsp; · &nbsp;
+  <a href="https://t.me/ss_user">
+    Telegram
+  </a>
+</p>
