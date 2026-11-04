@@ -61,13 +61,11 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/semenkulikov">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=semenkulikov&theme=github-compact&days=31&height=250"
-      width="95%"
-      alt="GitHub Contribution Activity"
-    />
-  </a>
+  <img
+    src="./profile/activity-graph.svg"
+    width="95%"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 
@@ -82,14 +80,16 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://semyon-saifutdinov.online">
-    <img src="https://img.shields.io/badge/Portfolio-Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Portfolio"/>
+  <a href="https://semyon-saifutdinov.online/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-161b22?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=0d1117" alt="Portfolio"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:saifutdinov.semen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" alt="Email"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/ss_user">
-    <img src="https://img.shields.io/badge/Telegram-Message%20me-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-Message%20me-161b22?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=0d1117" alt="Telegram"/>
   </a>
 </p>
 
