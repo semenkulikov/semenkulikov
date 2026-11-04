@@ -1,0 +1,48 @@
+
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/activity-graph.yml"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: semenkulikov
+          token: ${{ secrets.STREAK_STATS_TOKEN }}
+          output_path: profile/activity-graph.svg
+          options: >-
+            bg_color=0d1117&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=f0883e&area=true&area_color=161b22&border_color=30363d&radius=12&height=220&days=31&custom_title=Contribution%20Activity
+
+      - name: Commit activity graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add profile/activity-graph.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore: update activity graph"
+          git push
