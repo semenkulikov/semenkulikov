@@ -69,20 +69,35 @@
 
 ---
 
-## 🧠 LeetCode
+## 🧠 LeetCode Practice
 
-<p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/SemSai?theme=dark&font=Inter&colors=0d1117,161b22,c9d1d9,8b949e,58a6ff,79c0ff,f0883e,30363d&radius=12&border=1&animation=true&hide=ranking"
-    width="49%"
-    alt="LeetCode Statistics"
-  />
-  <img
-    src="https://leetcard.jacoblin.cool/SemSai?ext=heatmap&theme=dark&font=Inter&colors=0d1117,161b22,c9d1d9,8b949e,58a6ff,79c0ff,f0883e,30363d&radius=12&border=1&animation=true"
-    width="49%"
-    alt="LeetCode Activity Heatmap"
-  />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://leetcard.jacoblin.cool/SemSai?theme=dark&font=Inter&colors=0d1117,161b22,c9d1d9,8b949e,58a6ff,79c0ff,f0883e,30363d&radius=12&border=1&animation=true&hide=ranking"
+        width="100%"
+        alt="LeetCode Statistics"
+      />
+    </td>
+    <td width="50%" rowspan="2" align="center" valign="middle">
+      <img
+        src="https://leetcard.jacoblin.cool/SemSai?ext=heatmap&theme=dark&font=Inter&colors=0d1117,161b22,c9d1d9,8b949e,58a6ff,79c0ff,f0883e,30363d&radius=12&border=1&animation=true"
+        width="100%"
+        alt="LeetCode Heatmap"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://leetcard.jacoblin.cool/SemSai?ext=activity&theme=dark&font=Inter&colors=0d1117,161b22,c9d1d9,8b949e,58a6ff,79c0ff,f0883e,30363d&radius=12&border=1&animation=true"
+        width="100%"
+        alt="LeetCode Activity"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
