@@ -1,6 +1,9 @@
 name: Update streak stats
 
 on:
+  concurrency:
+    group: streak-stats
+    cancel-in-progress: false
   schedule:
     - cron: "0 3 * * *" # Run every day at 03:00
   push:
@@ -25,9 +28,33 @@ jobs:
           token: ${{ secrets.STREAK_STATS_TOKEN }}
 
       - name: Commit streak stats
+        shell: bash
         run: |
+          cp profile/streak.svg /tmp/streak.svg
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
-          git push
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            cp /tmp/streak.svg profile/streak.svg
+            git add profile/streak.svg
+
+            if git diff --cached --quiet; then
+              echo "No changes to commit"
+              exit 0
+            fi
+
+            git commit -m "Update streak stats"
+
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+
+            echo "Push attempt ${attempt} failed. Retrying..."
+            sleep 3
+          done
+
+          echo "Unable to push after 3 attempts"
+          exit 1
