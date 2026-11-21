@@ -15,9 +15,10 @@ on:
 
 permissions:
   contents: write
-  concurrency:
-    group: activity-graph
-    cancel-in-progress: false
+  
+concurrency:
+  group: activity-graph
+  cancel-in-progress: false
 
 jobs:
   build:
